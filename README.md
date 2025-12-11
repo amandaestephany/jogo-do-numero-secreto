@@ -1,24 +1,21 @@
-** 🎯 Jogo de Adivinhar Número Secreto
+# 🎯 Jogo de Adivinhar Número Aleatório
 
-Um jogo simples feito em JavaScript, onde o usuário tenta adivinhar um número secreto gerado aleatoriamente.
-Esse projeto é ideal para quem está começando na programação e quer praticar lógica, variáveis, condicionais e loops.
+Um jogo simples desenvolvido em **JavaScript**, onde o usuário tenta adivinhar um número secreto gerado aleatoriamente.  
+Projeto ideal para iniciantes praticarem lógica, variáveis, condicionais e interação com o usuário.
 
-🚀 Funcionalidades
+---
 
-Gera um número secreto aleatório dentro de um intervalo.
+## 🚀 Funcionalidades
 
-Permite que o usuário tente adivinhar o número.
+- Geração automática de um **número secreto aleatório**.
+- Usuário tenta adivinhar o número através de um `prompt`.
+- Exibe mensagem de acerto ou o número correto.
+- Código simples e direto para fins de estudo.
 
-Informa se o palpite está correto ou exibe o número certo ao final.
+---
 
-Código simples, organizado e fácil de aprender.
+## 🧠 Tecnologias
 
-Pode ser executado diretamente no navegador.
-
-🧠 Tecnologias usadas
-
-HTML
-
-CSS (opcional, se houver)
-
-JavaScript
+- **HTML**
+- **JavaScript**
+- **CSS**
